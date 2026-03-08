@@ -6,7 +6,7 @@ This a basic crud react-redux application for managing contacts. It currently us
 ##  How to install
 
 ```bash
-git clone git@github.com:brandiqa/react-contact-manager.git
+git clone https://github.com/shanbaviv-bit/contact_manager.git
 cd react-contact-manager
 
 # Install frontend dependencies
@@ -39,3 +39,4 @@ npm start
 ```
 
 Your default web browser will be launched automatically with the url http://localhost:3000
+
