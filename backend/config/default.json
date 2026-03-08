@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb+srv://admin:admin123@cluster0.6wtxpth.mongodb.net/contact-manager?retryWrites=true&w=majority",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "your_secret_here"
+    },
+    "local": {}
+  }
+}
